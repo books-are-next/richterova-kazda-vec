@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Každá věc ať dospěje na své místo",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Sylvie Richterová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-05-27T00:00:00.000Z"
+      "modified": "2022-05-27T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_001.md",
             "xhtml": "kazda_vec_at_dospeje_na_sve_misto_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_002.md",
             "xhtml": "kazda_vec_at_dospeje_na_sve_misto_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_003.md",
             "xhtml": "kazda_vec_at_dospeje_na_sve_misto_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_004.md",
             "xhtml": "kazda_vec_at_dospeje_na_sve_misto_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_006.md",
@@ -97,7 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Předznamenání"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_007.md",
@@ -108,7 +121,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1/ Zpětné zrcátko"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_008.md",
@@ -119,7 +134,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2/ Oheň na Hádech"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_009.md",
@@ -130,7 +147,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3/ Nebe–peklo–ráj"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_010.md",
@@ -141,7 +160,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4/ Všude můžeme být doma, ale nemusíme"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_011.md",
@@ -152,7 +173,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5/ Pozdější pokus o domov"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_012.md",
@@ -163,7 +186,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6/ Otcové"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_013.md",
@@ -174,7 +199,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7/ Zimní krajiny duše"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_014.md",
@@ -185,7 +212,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "8/ Mystérium ateistických Vánoc"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_015.md",
@@ -196,7 +225,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "9/ Noční světla, denní přízraky"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_016.md",
@@ -207,7 +238,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "10/ Pokusy o ráj"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_017.md",
@@ -218,7 +251,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "11/ Pokusy o dobro – průhledy I"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_018.md",
@@ -229,7 +264,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "12/ Kvásek na Otesánka (Vánoce II)"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_019.md",
@@ -240,7 +277,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "13/ Tady nikdo nestřílí"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_020.md",
@@ -251,7 +290,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "14/ Vyhnání z ráje"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_021.md",
@@ -262,7 +303,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "15/ Říše mrtvých"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_022.md",
@@ -273,7 +316,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "16/ Nezralé ovoce poznání"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_023.md",
@@ -284,7 +329,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "17/ Rekonstrukce: dobro a zlo"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_024.md",
@@ -295,7 +342,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "18/ Pokusy o dobro – průhledy II"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_025.md",
@@ -306,7 +355,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "19/ Pokusy o krásu, pokusy o svobodu"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_026.md",
@@ -317,7 +368,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "20/ Odkud jdeš, kam nepřicházíš"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_027.md",
@@ -328,7 +381,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "21/ Pokusy o svědomí"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_028.md",
@@ -339,7 +394,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "22/ Do světa"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_029.md",
@@ -350,7 +407,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "23/ Chceme světlo"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_030.md",
@@ -361,7 +420,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "24/ Kde jsi byl"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_031.md",
@@ -372,7 +433,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "25/ Lucie"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_032.md",
@@ -383,7 +446,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "26/ Tanky"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_033.md",
@@ -394,7 +459,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "27/ Probuzení jako sen"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_034.md",
@@ -405,7 +472,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "28/ Státní tajemství"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_035.md",
@@ -416,7 +485,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "29/ Jak jsme žili nežili"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_036.md",
@@ -427,7 +498,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "30/ Ještě pořád jdeš a nepřicházíš"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_037.md",
@@ -438,7 +511,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "31/ Cesty zoufalství"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_038.md",
@@ -449,7 +524,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "32/ Vědecký ateismus"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_039.md",
@@ -460,7 +537,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "33/ Roma a amor"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_040.md",
@@ -471,7 +550,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "34/ Nevrátíš se dvakrát do stejného domu"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_041.md",
@@ -482,7 +563,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "35/ Prach předků"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_042.md",
@@ -493,7 +576,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "36/ Prach náš"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_043.md",
@@ -504,7 +589,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "37/ Co trvá a co zaniká"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_044.md",
@@ -515,7 +602,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "38/ Závěry"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_045.md",
@@ -526,7 +615,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "39/ Marie z hlediska duše"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_046.md",
@@ -537,7 +628,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "40/ Pokusy o návrat"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_047.md",
@@ -548,7 +641,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "41/ Mezi řekami"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_048.md",
@@ -559,7 +654,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "42/ Oheň a paměť"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_049.md",
@@ -570,7 +667,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "43/ Janův definitivní návrat"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_050.md",
@@ -581,18 +680,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "44/ Každá věc ať dospěje na své místo"
           },
           {
             "filename": "kazda_vec_at_dospeje_na_sve_misto_051.md",
             "xhtml": "kazda_vec_at_dospeje_na_sve_misto_051.xhtml",
             "id": 50,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -976,6 +1078,6 @@
       "user": "books-are-next",
       "repo": "richterova-kazda-vec"
     },
-    "generatedAt": 1663935893241
+    "generatedAt": 1664012662891
   }
 }

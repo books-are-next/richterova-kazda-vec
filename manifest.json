@@ -1,0 +1,1033 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Každá věc ať dospěje na své místo",
+  "author": "Sylvie Richterová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "richterova-kazda-vec-at-dospeje-na-sve-misto-b589096",
+  "revision": "b589096",
+  "readingOrder": [
+    "promo.html",
+    "kazda_vec_at_dospeje_na_sve_misto_005.html",
+    "kazda_vec_at_dospeje_na_sve_misto_006.html",
+    "kazda_vec_at_dospeje_na_sve_misto_007.html",
+    "kazda_vec_at_dospeje_na_sve_misto_008.html",
+    "kazda_vec_at_dospeje_na_sve_misto_009.html",
+    "kazda_vec_at_dospeje_na_sve_misto_010.html",
+    "kazda_vec_at_dospeje_na_sve_misto_011.html",
+    "kazda_vec_at_dospeje_na_sve_misto_012.html",
+    "kazda_vec_at_dospeje_na_sve_misto_013.html",
+    "kazda_vec_at_dospeje_na_sve_misto_014.html",
+    "kazda_vec_at_dospeje_na_sve_misto_015.html",
+    "kazda_vec_at_dospeje_na_sve_misto_016.html",
+    "kazda_vec_at_dospeje_na_sve_misto_017.html",
+    "kazda_vec_at_dospeje_na_sve_misto_018.html",
+    "kazda_vec_at_dospeje_na_sve_misto_019.html",
+    "kazda_vec_at_dospeje_na_sve_misto_020.html",
+    "kazda_vec_at_dospeje_na_sve_misto_021.html",
+    "kazda_vec_at_dospeje_na_sve_misto_022.html",
+    "kazda_vec_at_dospeje_na_sve_misto_023.html",
+    "kazda_vec_at_dospeje_na_sve_misto_024.html",
+    "kazda_vec_at_dospeje_na_sve_misto_025.html",
+    "kazda_vec_at_dospeje_na_sve_misto_026.html",
+    "kazda_vec_at_dospeje_na_sve_misto_027.html",
+    "kazda_vec_at_dospeje_na_sve_misto_028.html",
+    "kazda_vec_at_dospeje_na_sve_misto_029.html",
+    "kazda_vec_at_dospeje_na_sve_misto_030.html",
+    "kazda_vec_at_dospeje_na_sve_misto_031.html",
+    "kazda_vec_at_dospeje_na_sve_misto_032.html",
+    "kazda_vec_at_dospeje_na_sve_misto_033.html",
+    "kazda_vec_at_dospeje_na_sve_misto_034.html",
+    "kazda_vec_at_dospeje_na_sve_misto_035.html",
+    "kazda_vec_at_dospeje_na_sve_misto_036.html",
+    "kazda_vec_at_dospeje_na_sve_misto_037.html",
+    "kazda_vec_at_dospeje_na_sve_misto_038.html",
+    "kazda_vec_at_dospeje_na_sve_misto_039.html",
+    "kazda_vec_at_dospeje_na_sve_misto_040.html",
+    "kazda_vec_at_dospeje_na_sve_misto_041.html",
+    "kazda_vec_at_dospeje_na_sve_misto_042.html",
+    "kazda_vec_at_dospeje_na_sve_misto_043.html",
+    "kazda_vec_at_dospeje_na_sve_misto_044.html",
+    "kazda_vec_at_dospeje_na_sve_misto_045.html",
+    "kazda_vec_at_dospeje_na_sve_misto_046.html",
+    "kazda_vec_at_dospeje_na_sve_misto_047.html",
+    "kazda_vec_at_dospeje_na_sve_misto_048.html",
+    "kazda_vec_at_dospeje_na_sve_misto_049.html",
+    "kazda_vec_at_dospeje_na_sve_misto_050.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sat Sep 24 2022 09:46:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664012763563
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kazda_vec_at_dospeje_na_sve_misto_005.html",
+      "toc": []
+    },
+    {
+      "title": "Každá věc ať dospěje na své místo",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_005.html",
+      "words": 17,
+      "chars": 113,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předznamenání",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_006.html",
+      "words": 38,
+      "chars": 244,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_005.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předznamenání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1/ Zpětné zrcátko",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_007.html",
+      "words": 2350,
+      "chars": 14109,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_006.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1/ Zpětné zrcátko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2/ Oheň na Hádech",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_008.html",
+      "words": 2422,
+      "chars": 14766,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_007.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2/ Oheň na Hádech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3/ Nebe–peklo–ráj",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_009.html",
+      "words": 2560,
+      "chars": 15439,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_008.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3/ Nebe–peklo–ráj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4/ Všude můžeme být doma, ale nemusíme",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_010.html",
+      "words": 2553,
+      "chars": 15144,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_009.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4/ Všude můžeme být doma, ale nemusíme",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5/ Pozdější pokus o domov",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_011.html",
+      "words": 2034,
+      "chars": 12096,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_010.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5/ Pozdější pokus o domov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6/ Otcové",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_012.html",
+      "words": 1906,
+      "chars": 11564,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_011.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6/ Otcové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7/ Zimní krajiny duše",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_013.html",
+      "words": 2163,
+      "chars": 13487,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_012.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7/ Zimní krajiny duše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8/ Mystérium ateistických Vánoc",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_014.html",
+      "words": 4821,
+      "chars": 30627,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_013.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8/ Mystérium ateistických Vánoc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9/ Noční světla, denní přízraky",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_015.html",
+      "words": 1355,
+      "chars": 8759,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_014.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9/ Noční světla, denní přízraky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10/ Pokusy o ráj",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_016.html",
+      "words": 2556,
+      "chars": 15580,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_015.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10/ Pokusy o ráj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11/ Pokusy o dobro – průhledy I",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_017.html",
+      "words": 2239,
+      "chars": 13796,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_016.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11/ Pokusy o dobro – průhledy I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12/ Kvásek na Otesánka (Vánoce II)",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_018.html",
+      "words": 2334,
+      "chars": 14566,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 14,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_017.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12/ Kvásek na Otesánka (Vánoce II)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13/ Tady nikdo nestřílí",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_019.html",
+      "words": 2323,
+      "chars": 13976,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 15,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_018.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13/ Tady nikdo nestřílí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14/ Vyhnání z ráje",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_020.html",
+      "words": 2340,
+      "chars": 14304,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 16,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_019.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14/ Vyhnání z ráje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15/ Říše mrtvých",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_021.html",
+      "words": 3176,
+      "chars": 19992,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 17,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_020.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15/ Říše mrtvých",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16/ Nezralé ovoce poznání",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_022.html",
+      "words": 2487,
+      "chars": 15215,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 18,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_021.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16/ Nezralé ovoce poznání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17/ Rekonstrukce: dobro a zlo",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_023.html",
+      "words": 1057,
+      "chars": 6473,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_022.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17/ Rekonstrukce: dobro a zlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18/ Pokusy o dobro – průhledy II",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_024.html",
+      "words": 2710,
+      "chars": 16685,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 20,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_023.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18/ Pokusy o dobro – průhledy II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19/ Pokusy o krásu, pokusy o svobodu",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_025.html",
+      "words": 3271,
+      "chars": 20379,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 21,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_024.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19/ Pokusy o krásu, pokusy o svobodu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20/ Odkud jdeš, kam nepřicházíš",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_026.html",
+      "words": 2313,
+      "chars": 14395,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 22,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_025.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20/ Odkud jdeš, kam nepřicházíš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21/ Pokusy o svědomí",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_027.html",
+      "words": 2209,
+      "chars": 13340,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 23,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_026.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21/ Pokusy o svědomí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22/ Do světa",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_028.html",
+      "words": 1513,
+      "chars": 9540,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 24,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_027.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22/ Do světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23/ Chceme světlo",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_029.html",
+      "words": 1460,
+      "chars": 9198,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_028.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23/ Chceme světlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24/ Kde jsi byl",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_030.html",
+      "words": 1704,
+      "chars": 10902,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 26,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_029.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24/ Kde jsi byl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25/ Lucie",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_031.html",
+      "words": 2296,
+      "chars": 14100,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 27,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_030.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25/ Lucie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "26/ Tanky",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_032.html",
+      "words": 2736,
+      "chars": 16875,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 28,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_031.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "26/ Tanky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "27/ Probuzení jako sen",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_033.html",
+      "words": 1085,
+      "chars": 6583,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 29,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_032.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "27/ Probuzení jako sen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "28/ Státní tajemství",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_034.html",
+      "words": 2134,
+      "chars": 13347,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 30,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_033.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "28/ Státní tajemství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "29/ Jak jsme žili nežili",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_035.html",
+      "words": 1165,
+      "chars": 7234,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 31,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_034.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "29/ Jak jsme žili nežili",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "30/ Ještě pořád jdeš a nepřicházíš",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_036.html",
+      "words": 4553,
+      "chars": 27731,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 32,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_035.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "30/ Ještě pořád jdeš a nepřicházíš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "31/ Cesty zoufalství",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_037.html",
+      "words": 2942,
+      "chars": 18437,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 33,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_036.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "31/ Cesty zoufalství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "32/ Vědecký ateismus",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_038.html",
+      "words": 1527,
+      "chars": 9806,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 34,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_037.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "32/ Vědecký ateismus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "33/ Roma a amor",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_039.html",
+      "words": 1765,
+      "chars": 10853,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 35,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_038.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "33/ Roma a amor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "34/ Nevrátíš se dvakrát do stejného domu",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_040.html",
+      "words": 2427,
+      "chars": 14468,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 36,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_039.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "34/ Nevrátíš se dvakrát do stejného domu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "35/ Prach předků",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_041.html",
+      "words": 923,
+      "chars": 5505,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 37,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_040.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "35/ Prach předků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "36/ Prach náš",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_042.html",
+      "words": 2199,
+      "chars": 13626,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 38,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_041.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "36/ Prach náš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "37/ Co trvá a co zaniká",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_043.html",
+      "words": 3385,
+      "chars": 20731,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 39,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_042.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "37/ Co trvá a co zaniká",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "38/ Závěry",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_044.html",
+      "words": 2356,
+      "chars": 14242,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 40,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_043.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "38/ Závěry",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "39/ Marie z hlediska duše",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_045.html",
+      "words": 1772,
+      "chars": 10369,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 41,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_044.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "39/ Marie z hlediska duše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "40/ Pokusy o návrat",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_046.html",
+      "words": 2129,
+      "chars": 12817,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 42,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_045.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "40/ Pokusy o návrat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "41/ Mezi řekami",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_047.html",
+      "words": 1938,
+      "chars": 11821,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 43,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_046.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "41/ Mezi řekami",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "42/ Oheň a paměť",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_048.html",
+      "words": 2222,
+      "chars": 13501,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 44,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_047.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "42/ Oheň a paměť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "43/ Janův definitivní návrat",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_049.html",
+      "words": 1599,
+      "chars": 9660,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 45,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_048.html",
+      "next": "kazda_vec_at_dospeje_na_sve_misto_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "43/ Janův definitivní návrat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "44/ Každá věc ať dospěje na své místo",
+      "file": "kazda_vec_at_dospeje_na_sve_misto_050.html",
+      "words": 1084,
+      "chars": 6417,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 46,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_049.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "44/ Každá věc ať dospěje na své místo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 148,
+      "chars": 932,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "kazda_vec_at_dospeje_na_sve_misto_050.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 98307,
+      "chars": 603805,
+      "ideas": 981
+    },
+    "chapters": {
+      "words": 98148,
+      "chars": 602812,
+      "ideas": 962
+    }
+  }
+}
