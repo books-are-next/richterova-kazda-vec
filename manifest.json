@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "richterova-kazda-vec-at-dospeje-na-sve-misto-34bc5ee",
-  "revision": "34bc5ee",
+  "identifier": "richterova-kazda-vec-at-dospeje-na-sve-misto-6244cbc",
+  "revision": "6244cbc",
   "readingOrder": [
     "promo.html",
     "kazda_vec_at_dospeje_na_sve_misto_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:41:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901685839
+    "date": "Tue Oct 04 2022 18:46:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664909186150
   },
   "documents": [
     {
