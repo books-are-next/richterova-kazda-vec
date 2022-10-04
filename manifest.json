@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "richterova-kazda-vec-at-dospeje-na-sve-misto-04016fd",
-  "revision": "04016fd",
+  "identifier": "richterova-kazda-vec-at-dospeje-na-sve-misto-34bc5ee",
+  "revision": "34bc5ee",
   "readingOrder": [
     "promo.html",
     "kazda_vec_at_dospeje_na_sve_misto_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:47:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639230257
+    "date": "Tue Oct 04 2022 16:41:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901685839
   },
   "documents": [
     {
@@ -1000,9 +1000,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 148,
+      "words": 146,
       "chars": 932,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "kazda_vec_at_dospeje_na_sve_misto_050.html",
@@ -1020,9 +1020,9 @@
   ],
   "totals": {
     "all": {
-      "words": 98307,
+      "words": 98305,
       "chars": 603805,
-      "ideas": 981
+      "ideas": 979
     },
     "chapters": {
       "words": 98148,
