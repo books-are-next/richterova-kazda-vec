@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2813-7
 readingOrder:
   - promo.html
   - kazda_vec_at_dospeje_na_sve_misto_005.html
